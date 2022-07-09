@@ -1,0 +1,6 @@
+{
+  "localhost_BalloonsAddress": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+  "localhost_DEXAddress": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+  "rinkeby_BalloonsAddress": "0xa25E4Cc3D7F10F3D3897778a42DA48227B38DA19",
+  "rinkeby_DEXAddress": "0x508D19D895cBE0B11437D7a7D2FBAB3384bdA440"
+}
